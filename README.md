@@ -1,2 +1,3 @@
 # Movie-Website
-A Movie website 
+A Movie website which shares the trailers of the movies you like.
+
